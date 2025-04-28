@@ -24,3 +24,12 @@ Favorite Applications + Favorite Features
 4) Flora 
   -  Cute way to see that the longer you study for the growth of the plant is shown
   -  Able to contribute/donate to special funds for better sustainability
+
+5) BeReal 
+  - really fun way of staying in touch with friends by sharing photos of the moment
+  - Memories being saved comes in handy when doing an instagram recap/photo board
+
+# App Idea
+A potential app that i want to create is a mix of the spotify and flora app. I want people to be able to listen to their favorite music and then once they reach the end of their playlist, they can share a moment (taking a selfie) with their friends or alone. If they decide to share the photo publicly using a hashtag to contribute to one of the enviormental causes (the share is a donation to the organization). If they dont  decide to share the app then they can simply take their photo and save it. 
+
+The overall idea is to provide a fun expirience for the user while also providing an incentive of contributing to the good of nature. The implementation of this is definelty a mix of spotify, flora and BeReal. These three apps would be the groundwork for inspiration. 
